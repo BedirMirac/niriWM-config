@@ -1,0 +1,1 @@
+# niriWM-config
